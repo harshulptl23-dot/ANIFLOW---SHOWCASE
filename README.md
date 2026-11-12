@@ -1,4 +1,8 @@
-# AniFlow — Anime Tracking Mobile App & Interactive Companion
+<h1>
+  <img src="images/aniflow_logo_main.png" width="60" align="absmiddle" alt="AniFlow Logo" />
+  AniFlow — Anime Tracking Mobile App & Interactive Companion
+</h1>
+
 
 ![Flutter](https://shields.io)
 ![Dart](https://shields.io)
